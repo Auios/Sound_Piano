@@ -10,7 +10,7 @@ datablock AudioProfile(pianoNote_2Csh:pianoNote_2C)
 datablock AudioProfile(pianoNote_2D:pianoNote_2C)
 {filename = "add-ons/sound_piano/sounds/2-D.wav";};
 datablock AudioProfile(pianoNote_2Dsh:pianoNote_2C)
-{filename = "add-ons/sound_piano/sounds/2-Dsh.wav";};
+{filename = "add-ons/sound_piano/sounds/2-D_sh.wav";};
 datablock AudioProfile(pianoNote_2E:pianoNote_2C)
 {filename = "add-ons/sound_piano/sounds/2-E.wav";};
 datablock AudioProfile(pianoNote_2F:pianoNote_2C)
@@ -35,7 +35,7 @@ datablock AudioProfile(pianoNote_3Csh:pianoNote_2C)
 datablock AudioProfile(pianoNote_3D:pianoNote_2C)
 {filename = "add-ons/sound_piano/sounds/3-D.wav";};
 datablock AudioProfile(pianoNote_3Dsh:pianoNote_2C)
-{filename = "add-ons/sound_piano/sounds/3-Dsh.wav";};
+{filename = "add-ons/sound_piano/sounds/3-D_sh.wav";};
 datablock AudioProfile(pianoNote_3E:pianoNote_2C)
 {filename = "add-ons/sound_piano/sounds/3-E.wav";};
 datablock AudioProfile(pianoNote_3F:pianoNote_2C)
@@ -60,7 +60,7 @@ datablock AudioProfile(pianoNote_4Csh:pianoNote_2C)
 datablock AudioProfile(pianoNote_4D:pianoNote_2C)
 {filename = "add-ons/sound_piano/sounds/4-D.wav";};
 datablock AudioProfile(pianoNote_4Dsh:pianoNote_2C)
-{filename = "add-ons/sound_piano/sounds/4-Dsh.wav";};
+{filename = "add-ons/sound_piano/sounds/4-D_sh.wav";};
 datablock AudioProfile(pianoNote_4E:pianoNote_2C)
 {filename = "add-ons/sound_piano/sounds/4-E.wav";};
 datablock AudioProfile(pianoNote_4F:pianoNote_2C)
@@ -85,7 +85,7 @@ datablock AudioProfile(pianoNote_5Csh:pianoNote_2C)
 datablock AudioProfile(pianoNote_5D:pianoNote_2C)
 {filename = "add-ons/sound_piano/sounds/5-D.wav";};
 datablock AudioProfile(pianoNote_5Dsh:pianoNote_2C)
-{filename = "add-ons/sound_piano/sounds/5-Dsh.wav";};
+{filename = "add-ons/sound_piano/sounds/5-D_sh.wav";};
 datablock AudioProfile(pianoNote_5E:pianoNote_2C)
 {filename = "add-ons/sound_piano/sounds/5-E.wav";};
 datablock AudioProfile(pianoNote_5F:pianoNote_2C)
@@ -110,7 +110,7 @@ datablock AudioProfile(pianoNote_6Csh:pianoNote_2C)
 datablock AudioProfile(pianoNote_6D:pianoNote_2C)
 {filename = "add-ons/sound_piano/sounds/6-D.wav";};
 datablock AudioProfile(pianoNote_6Dsh:pianoNote_2C)
-{filename = "add-ons/sound_piano/sounds/6-Dsh.wav";};
+{filename = "add-ons/sound_piano/sounds/6-D_sh.wav";};
 datablock AudioProfile(pianoNote_6E:pianoNote_2C)
 {filename = "add-ons/sound_piano/sounds/6-E.wav";};
 datablock AudioProfile(pianoNote_6F:pianoNote_2C)
